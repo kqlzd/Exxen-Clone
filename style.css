@@ -1,0 +1,92 @@
+body {
+    background-color: black;
+}
+
+.containers {
+    width: 70% !important;
+}
+
+/* Navbar And Screens */
+
+.exxen-spor {
+    border: none;
+    padding: 10px 30px;
+    font-size: 1.2rem;
+}
+
+.uye-giris {
+    border: 1px solid black;
+    padding: 10px 30px;
+    font-size: 1.2rem;
+}
+
+.uye-ol {
+    padding: 10px 20px;
+}
+
+.kayit input {
+    width: 90%;
+    padding: 10px 20px;
+
+}
+
+.kayit {
+    background-color: #111111;
+    width: 100%;
+    margin: auto;
+}
+
+.kayit input:focus {
+    outline: 2px solid rgb(255, 187, 0);
+}
+
+.kayit button {
+    width: 90%;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+}
+
+/* Navbar And Screens */
+
+
+/* Cards */
+.card {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.card img {
+    width: 100%;
+}
+
+/* Cards */
+
+.ekranlar {
+    width: 90%;
+    margin: auto;
+}
+
+.resimler {
+    width: 100%;
+}
+
+.resimler img {
+    width: 160px;
+    height: 45px;
+    margin: 5px;
+}
+
+.help-center {
+    background-color: #111111;
+    width: 100%;
+}
+
+
+/* RESPONSIVE */
+
+@media screen and (max-width:1180px) {
+    /* .container .row {
+        display: block;
+    } */
+}
